@@ -1,0 +1,43 @@
+{
+  "name": "ZimParks Responsive Mega Menu UI System",
+  "colors": {
+    "primaryGreen": "#0B6B2E",
+    "darkGreen": "#06451F",
+    "tariffBrown": "#5A351B",
+    "accentGold": "#C8A951",
+    "lightGrey": "#F5F5F5",
+    "midGrey": "#E6E6E6",
+    "text": "#1D1D1D",
+    "white": "#FFFFFF",
+    "muted": "#757575"
+  },
+  "typography": {
+    "fontFamily": "Inter, Arial, sans-serif",
+    "nav": "12px bold",
+    "body": "14px regular",
+    "heading": "18px bold",
+    "hero": "24px bold"
+  },
+  "breakpoints": {
+    "mobile": "375px",
+    "tablet": "768px",
+    "desktop": "1440px"
+  },
+  "spacing": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    40,
+    48,
+    64
+  ],
+  "sketch_import_notes": [
+    "Open Sketch, choose File > Insert > From File, then select the SVG.",
+    "Ungroup imported artboards as needed.",
+    "Convert repeated objects such as Nav Item, Button, Sidebar Item, Menu Column and Visual Card into Symbols.",
+    "Create text styles and color variables from design-tokens.json."
+  ]
+}
